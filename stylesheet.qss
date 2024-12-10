@@ -1,0 +1,116 @@
+/* Apply specific style to QWidget */
+QWidget {
+    background-color: lightgray;
+}
+
+/* Apply specific style to QLabel */
+QLabel {
+    color: darkblue;
+}
+
+/* Apply specific style to QLineEdit */
+QLineEdit {
+    background-color: black;
+    border: 1px solid lightblue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+/* Apply specific style to QPushButton when hovered */
+QPushButton:hover {
+    background-color: darkblue;
+    color: black;k
+}
+
+/* Apply specific style to QPushButton when disabled */
+QPushButton:disabled {
+    background-color: lightgray;
+    color: black;
+}
+
+/* Apply specific style to QPushButton when enabled */
+QPushButton:enabled {
+    background-color: lightblue;
+    color: black;
+}
+
+/* Apply specific style to QComboBox when it's hovered */
+QComboBox:hover {
+    background-color: darkblue;
+    color: black;
+}
+
+/* Apply specific style to QComboBox when it's pressed */
+QComboBox:pressed {
+    background-color: blue;
+    color: black;
+}
+
+/* Apply specific style to QComboBox when it's disabled */
+QComboBox:disabled {
+    background-color: lightgray;
+    color: gray;
+}
+
+/* Apply specific style to QComboBox when it's enabled */
+QComboBox:enabled {
+    background-color: lightblue;
+    color: black;
+}
+
+/* Apply specific style to QDateEdit when it's hovered */
+QDateEdit:hover {
+    background-color: darkblue;
+    color: black;
+}
+
+/* Apply specific style to QDateEdit when it's pressed */
+QDateEdit:pressed {
+    background-color: blue;
+    color: black;
+}
+
+/* Apply specific style to QDateEdit when it's disabled */
+QDateEdit:disabled {
+    background-color: lightgray;
+    color: black;
+}
+
+/* Apply specific style to QDateEdit when it's enabled */
+QDateEdit:enabled {
+    background-color: lightblue;
+    color: black;
+}
+
+/* Apply specific style to QScrollArea when it's hovered */
+QScrollArea:hover {
+    border: 1px solid darkblue;
+}
+
+/* Apply specific style to QScrollArea when it's pressed */
+QScrollArea:pressed {
+    border: 1px solid darkblue;
+}
+
+/* Apply specific style to QScrollArea when it's disabled */
+QScrollArea:disabled {
+    border: 1px solid lightgray;
+}
+
+/* Apply specific style to QScrollArea when it's enabled */
+QScrollArea:enabled {
+    border: 1px solid lightblue;
+}
+/* Apply black font color to all text */
+{
+    color: black;
+}
+/* Apply black font color to QComboBox */
+QComboBox {
+    color: black;
+}
+
+/* Apply black font color to QPushButton */
+QPushButton {
+    color: black;
+}

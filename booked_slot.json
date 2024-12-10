@@ -1,0 +1,19 @@
+{
+    "bookings": [],
+    "engineers": {
+        "Deepak": [],
+        "Raman": [],
+        "Shishupal": [],
+        "Vikas": [],
+        "Sachin": []
+    },
+    "locations": {
+        "Office": [],
+        "Leave": [],
+        "Candor Tikri": [],
+        "DLF Ultima": [],
+        "DLF Primus": [],
+        "Candor Dhundahera": [],
+        "Regal Garden": []
+    }
+}
